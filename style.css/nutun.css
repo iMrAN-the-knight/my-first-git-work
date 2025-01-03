@@ -1,0 +1,22 @@
+.vvlog{
+background-color: antiquewhite;
+border: 5px;
+padding: 4px;
+font-style: oblique;
+margin: 10px;
+}
+.matha{
+text-align: center;
+font-weight: bold;
+color: green;
+box-shadow: 4px;
+}
+.v{
+text-decoration:  underline;
+
+    text-align: center;
+    text-shadow: 15px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    /*text-decoration: underline;*/
+}
